@@ -6,7 +6,7 @@
       "lastname": "Samangsri",
       "nickname": "Dream",
       "BirthDate": "1998-07-01",
-      "picture": "https://raw.githubusercontent.com/604234035CS/MyFriend1/master/Dream.jpg",
+      "picture": "https://raw.githubusercontent.com/604234035CS/friend/master/Dream.jpg",
       "category":"friends"
   },
   {
@@ -15,7 +15,7 @@
       "lastname": "Seethong",
       "nickname": "Ta",
       "BirthDate": "1998-10-09",
-      "picture": "https://raw.githubusercontent.com/604234035CS/MyFriend1/master/Ta.jpg",
+      "picture": "https://raw.githubusercontent.com/604234035CS/friend/master/Ta.jpg",
       "category":"friends"
   },
   {
@@ -24,7 +24,7 @@
       "lastname": "Samphaonil",
       "nickname": "Kung",
       "BirthDate": "1998-03-03",
-      "picture": "https://raw.githubusercontent.com/604234035CS/MyFriend1/master/Kung.jpg",
+      "picture": "https://raw.githubusercontent.com/604234035CS/friend/master/Kung.jpg",
       "category":"friends"
   }
 
